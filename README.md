@@ -13,7 +13,7 @@ bumper and the car in front. Using MATLAB I have designed and implemented the EB
 <li>1) Process live input video from a vehicles front camerare</li>
 <li>2) Perform image filtering techniques on each video frame to showcase the lane markings
 
-<img src="https://github.com/Esedicol/Emergency-Brake-Assist-System/blob/master/ImageFiltering.png" width="300" height="400" />
+<img src="https://github.com/Esedicol/Emergency-Brake-Assist-System/blob/master/ImageFiltering.png" />
 <li>3) Locate Region of Interest </li>
 <li>4) Apply Hough Transform Algorithm to detect hard lines </li>
 <li>5) Visualize detected lane and perform distance extraction </li>
